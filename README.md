@@ -7,6 +7,11 @@ A basic calculator application built using Python's Tkinter library. This applic
 
 TASK - 2 :-
 Rock-Paper-Scissors Game Application
+A simple Rock-Paper-Scissors game built with Python and Tkinter. The player competes against the computer, with score tracking, result display, and a reset option for a fresh start.
+
+TASK -3 :-
+Password Generator Application
+
 
 
 
