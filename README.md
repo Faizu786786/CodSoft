@@ -11,7 +11,7 @@ A simple Rock-Paper-Scissors game built with Python and Tkinter. The player comp
 
 TASK -3 :-
 Password Generator Application
-
+A Python Tkinter-based Password Generator that lets you create strong and customizable passwords. You can choose to include letters, numbers, and symbols, and easily copy the generated password to your clipboard.
 
 
 
